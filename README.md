@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamkedar24
-- 👀 I’m interested in C, C++, Java, ReactJS.
-- 🌱 I’m currently learning Java ReactJS
-- 💞️ I’m looking to collaborate on java, C, C++
+- 👀 I’m interested in Java,SQL,Spring Boot,Data Structures,MS dot NET,ReactJS.
+- 🌱 I’m currently learning Java,SQL,Spring Boot,Data Structures,MS dot NET,ReactJS
+- 💞️ I’m looking to collaborate on java, SQL, Spring Boot, MS dot NET, ReactJS .
 - 📫 How to reach me @shubhkedar@gmail.com
 
 <!---
